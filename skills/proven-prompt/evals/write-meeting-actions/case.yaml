@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: write-meeting-actions
+expected_outcome: |
+  A tested prompt that turns meeting notes into owner-and-date action items, with checks written first, test runs on fresh inputs, a pass/fail table and where to run it.

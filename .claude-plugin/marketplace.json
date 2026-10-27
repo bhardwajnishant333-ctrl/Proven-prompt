@@ -1,0 +1,12 @@
+{
+  "name": "pivyon",
+  "description": "Tools from Pivyon: prompts that are tested before you use them.",
+  "owner": { "name": "Pivyon", "email": "hello@pivyon.com" },
+  "plugins": [
+    {
+      "name": "proven-prompt",
+      "source": "./",
+      "description": "Write or improve a prompt, test it on real inputs, fix it until it passes, and get it back with proof it works."
+    }
+  ]
+}

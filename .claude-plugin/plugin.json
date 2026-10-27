@@ -1,0 +1,9 @@
+{
+  "name": "proven-prompt",
+  "version": "0.1.0",
+  "description": "Write or improve a prompt and prove it works: agree pass/fail checks first, run the prompt on test inputs in a fresh context, grade the results, fix the prompt until it passes, and get it back with its test record and where to run it.",
+  "author": { "name": "Pivyon", "email": "hello@pivyon.com", "url": "https://pivyon.com" },
+  "homepage": "https://pivyon.com",
+  "license": "MIT",
+  "keywords": ["prompt", "prompt engineering", "system prompt", "testing", "evaluation", "productivity"]
+}

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: improve-blog-prompt
+expected_outcome: |
+  The original weak prompt is run and scored first, then improved and re-tested, with a before and after score and a final prompt that guards against invented statistics.
